@@ -48,7 +48,6 @@ public class EmailSenderGUI {
         GridBagConstraints gbc = new GridBagConstraints();
 
         frame.setPreferredSize(new Dimension(500, 600));
-        frame.setResizable(false);
 
 
         // Uygulama simgesini ayarla
